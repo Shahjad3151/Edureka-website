@@ -1,0 +1,131 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+#i1{
+    width: 15vw;
+    height:6vh;
+}
+.nav-item>a{
+    font-size: 2.5vh;
+}
+.nav-item>a:hover{
+    font-size: 2.5vh;
+    border-bottom: 2px solid red;
+}
+#o1{
+    font-size: 1.8vh;
+}
+.carousel-item >img{
+    width: 100vw;
+    height: 35vh;
+    
+}
+#s1{
+    width: 36vw;
+    margin-left: 5vw;
+}
+#s2{
+    width: 25vw;
+    margin-left: 5vw;
+}
+#cat{
+    width: 100%;
+    padding-left: 13vw;
+    margin-top: -2.5vh;
+}
+#cat>p{
+    width: 15vw;
+    height: 7vh;
+    background-color: rgba(155, 244, 82, 0.851);
+    display: inline-block;
+    margin-left: 7vw;
+    box-shadow: 4px 5px rgb(240, 5, 240);
+    font-size: 2.4vh;
+    padding-top: 1.2vh;
+    padding-left: 1vw;
+    z-index: 1;
+}
+.head{
+    margin-top: 3vh;
+    margin-left: 6vw;
+}
+.card{
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+.card >img{
+    height: 20vh;
+    width: 100%;
+}
+.card-body > i{
+    color: yellow;
+    font-size: 2vh;
+}
+.card-body > i > span{
+    color: black;
+    font-size: 1.5vh;
+}
+.msg{
+    width: 100%;
+    height: 100%;
+    background-color:rgb(40, 44, 40);
+    color: white;
+    position: absolute;
+    display: none;
+    padding-left: 2vw;
+    padding-top: 2vh;
+}
+.card:hover > .msg{
+    display: block;
+    z-index: 2;
+}
+.msg > p{
+    font-size: 2.8vh;
+}
+.msg > ul>li{
+    font-size: 2.4vh;
+}
+#b1:hover{
+    background-color: red;
+}
+#t{
+    margin-left: 3vw;
+   
+}
+#t1>img{
+    width: 8vw;
+    height: 8vh;
+}
+#f{
+    margin-top: -4vh;
+}
+#f1>h4{
+    margin-top: 0vh;
+    padding-left: 5vw;
+    font-weight: 50px; 
+}
+#f1>p{
+    margin-top: 3vh;
+    padding-left: 5vw;
+    line-height: 1;
+    font-size: 2vh;
+}
+#f1>p>img{
+    width: 9vw;
+    height: 5vh;
+}
+#z1>p{
+    font-size: 2.3vh;
+    margin: 2vw 7vw 0vw 6vw;
+    line-height: 2;
+}
+#e1{
+   height: 6vh;
+}
+#e1>h4{
+    padding-left: 20vw;
+ }

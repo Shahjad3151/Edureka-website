@@ -1,0 +1,74 @@
+@media only screen and (max-width:1244px) {
+    #i1{
+        width: 10vw;
+    }
+    #s1{
+        width: 30vw;
+    }
+    #s2{
+        width: 15vw;
+        height: 6vh;
+    }
+    #s3{
+        font-size: 2vh;
+    }
+}
+@media only screen and (max-width:806px) {
+    #i1{
+        width: 12vw;
+    }
+    #s1{
+        width: 28vw;
+    }
+    #s2{
+        width: 14vw;
+        height: 5vh;     
+    }
+    #s3{
+        font-size: 2vh;
+    }
+    .nav-item>a{
+        font-size: 2vh;
+    }
+    #b1{
+        font-size: 1.5vh;
+    }
+}
+@media only screen and (max-width:576px) {
+    #i1{
+        width: 20vw;
+    }
+    #s1{
+        width: 25vw;
+    }
+    #s2{
+        margin-left: 0px;
+        width: 15vw;
+        height: 4.5vh;     
+    }
+    #s3{
+        font-size: 1.5vh;
+    }
+    #cat{
+        padding-left: 3.5vw;
+        margin-top: -3vh;
+    }
+    #cat>p{
+        width: 22vw;
+        height: 7.5vh;
+    }
+    #t1{
+        width: 12vw;
+        height: 10vh;  
+
+    }
+    #t1>img{
+        width: 10vw;
+        height: 8vh;   
+    }
+    #t{
+        width: 18vw;
+        margin-left: 1vw;
+    }
+
+}
